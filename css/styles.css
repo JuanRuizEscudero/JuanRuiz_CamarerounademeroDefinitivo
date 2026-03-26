@@ -1,0 +1,64 @@
+/* Importamos la fuente Roboto de Google Fonts tal y como sale en los apuntes */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    background-color: #f8f9fa;
+    font-family: 'Roboto', sans-serif; /* Uso de la fuente importada */
+}
+
+/* Tamaños en píxeles (px) en lugar de rem */
+h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Usamos border, padding y margin (modelo de caja de los apuntes) para la tabla */
+.tabla-menu {
+    background-color: white;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    margin: 20px;
+}
+
+/* Tamaño de los iconos en px */
+.icono-caracteristica {
+    font-size: 18px;
+    margin-right: 5px;
+    color: #555555;
+}
+
+/* Colores para algunos iconos específicos */
+.fa-leaf { color: #28a745; } 
+.fa-pepper-hot { color: #dc3545; } 
+.fa-wine-glass { color: #6f42c1; } 
+
+/* Media Queries para Diseño Responsive: Pantallas medianas (Hasta 768px) */
+@media (max-width: 768px) {
+    /* Hacemos el título más pequeño en móvil */
+    h1 { 
+        font-size: 24px; 
+    }
+    
+    /* Reducimos los márgenes en móvil para aprovechar el espacio */
+    .tabla-menu {
+        margin: 5px;
+        padding: 5px;
+    }
+    
+    /* Como no podemos usar display: none, simplemente hacemos la letra más pequeña para que quepa */
+    p, td, th {
+        font-size: 14px;
+    }
+}

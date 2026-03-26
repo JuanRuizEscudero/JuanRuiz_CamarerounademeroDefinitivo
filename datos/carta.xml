@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato tipo="Entrante">
+        <nombre>croquetas de la abu (six o seven)</nombre>
+        <precio>7.50</precio>
+        <descripcion>literalmente no se si te van a tocar 6 o 7, depende de como tenga el dia el cocinero bro</descripcion>
+        <calorias>450</calorias>
+        <caracteristicas>
+            <item>Carne</item>
+            <item>Lácteo</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Entrante">
+        <nombre>quesito roro</nombre>
+        <precio>12.00</precio>
+        <descripcion>a pablo le apetecia queso asi que me fui a los alpes a ordeñar una vaca a las 3 am</descripcion>
+        <calorias>350</calorias>
+        <caracteristicas>
+            <item>Lácteo</item>
+            <item>Vegetariano</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Entrante">
+        <nombre>bravas es de locos</nombre>
+        <precio>6.00</precio>
+        <descripcion>pican mas que la bofetada de will smith, una locura chaval</descripcion>
+        <calorias>500</calorias>
+        <caracteristicas>
+            <item>Vegetariano</item>
+            <item>Picante</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Entrante">
+        <nombre>nachos que es esooo</nombre>
+        <precio>8.50</precio>
+        <descripcion>pintamos toda la casa y sin dejar caer una gota... el queso se desborda por el plato</descripcion>
+        <calorias>600</calorias>
+        <caracteristicas>
+            <item>Vegetariano</item>
+            <item>Lácteo</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Entrante">
+        <nombre>ensalada imperio romano</nombre>
+        <precio>5.50</precio>
+        <descripcion>la ensalada en la que pienso 4 veces al dia, no me escondo</descripcion>
+        <calorias>150</calorias>
+        <caracteristicas>
+            <item>Vegano</item>
+            <item>Sin gluten</item>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo="Principal">
+        <nombre>menu fucking panza</nombre>
+        <precio>15.00</precio>
+        <descripcion>si te comes un cruasan no estas ready. solo pollo con arroz para los leones</descripcion>
+        <calorias>250</calorias>
+        <caracteristicas>
+            <item>Carne</item>
+            <item>Sin gluten</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Principal">
+        <nombre>arroz con cosas de guiris</nombre>
+        <precio>14.00</precio>
+        <descripcion>perdon a todos los valencianos, lleva chorizo pero esta rico que flipas la verdad</descripcion>
+        <calorias>650</calorias>
+        <caracteristicas>
+            <item>Carne</item>
+            <item>Picante</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Principal">
+        <nombre>bocata calamares madriz</nombre>
+        <precio>8.00</precio>
+        <descripcion>8 pavos por pan con calamares pero eh relaxing cup y tal</descripcion>
+        <calorias>550</calorias>
+        <caracteristicas>
+            <item>Pescado</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Principal">
+        <nombre>smash burger team frio</nombre>
+        <precio>11.00</precio>
+        <descripcion>te la servimos fria para que los del team invierno dejen de dar la chapa en twitter</descripcion>
+        <calorias>800</calorias>
+        <caracteristicas>
+            <item>Carne</item>
+            <item>Lácteo</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Principal">
+        <nombre>filete empanado de tupper</nombre>
+        <precio>9.00</precio>
+        <descripcion>sabe a arena de playa y a excursion de la eso. goated</descripcion>
+        <calorias>600</calorias>
+        <caracteristicas>
+            <item>Carne</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Principal">
+        <nombre>macarrones con tomatico</nombre>
+        <precio>7.50</precio>
+        <descripcion>tu abuela te dice que te pone poco y te trae la olla entera, lo tipico</descripcion>
+        <calorias>700</calorias>
+        <caracteristicas>
+            <item>Vegetariano</item>
+            <item>Lácteo</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Principal">
+        <nombre>pizza con piña</nombre>
+        <precio>10.00</precio>
+        <descripcion>la pides para joder a tus colegas. viene con hoja de reclamaciones por si acaso</descripcion>
+        <calorias>650</calorias>
+        <caracteristicas>
+            <item>Vegetariano</item>
+            <item>Lácteo</item>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo="Postre">
+        <nombre>tarta pedro pedro</nombre>
+        <precio>6.00</precio>
+        <descripcion>da mas vueltas que un mapache en tiktok, un 10 de 10</descripcion>
+        <calorias>450</calorias>
+        <caracteristicas>
+            <item>Lácteo</item>
+            <item>Vegetariano</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Postre">
+        <nombre>cruasan anti llados</nombre>
+        <precio>4.50</precio>
+        <descripcion>puro azucar y chocolate para que te salga una panza increible bro</descripcion>
+        <calorias>600</calorias>
+        <caracteristicas>
+            <item>Lácteo</item>
+            <item>Vegetariano</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Postre">
+        <nombre>helado emilio</nombre>
+        <precio>4.00</precio>
+        <descripcion>tres bolitas elegidas al azar. un poquito de por favor eh</descripcion>
+        <calorias>350</calorias>
+        <caracteristicas>
+            <item>Lácteo</item>
+            <item>Vegetariano</item>
+            <item>Sin gluten</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Postre">
+        <nombre>fruta triste</nombre>
+        <precio>3.50</precio>
+        <descripcion>una manzana y da gracias. no todo es fiesta</descripcion>
+        <calorias>80</calorias>
+        <caracteristicas>
+            <item>Vegano</item>
+            <item>Sin gluten</item>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo="Bebida">
+        <nombre>relaxing cup</nombre>
+        <precio>3.50</precio>
+        <descripcion>cafe con leche in plaza mayor, claisco de clasicos</descripcion>
+        <calorias>50</calorias>
+        <caracteristicas>
+            <item>Lácteo</item>
+            <item>Vegetariano</item>
+            <item>Sin gluten</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Bebida">
+        <nombre>monster blanco de programar</nombre>
+        <precio>2.50</precio>
+        <descripcion>pa aguantar hasta las 3 am haciendo el xml este de lenguajes de marcas</descripcion>
+        <calorias>200</calorias>
+        <caracteristicas>
+            <item>Vegano</item>
+            <item>Sin gluten</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Bebida">
+        <nombre>la ultima y nos vamos</nombre>
+        <precio>3.00</precio>
+        <descripcion>la mentira mas grande de españa. vas a acabar cerrando el bar</descripcion>
+        <calorias>150</calorias>
+        <caracteristicas>
+            <item>Alcohol</item>
+        </caracteristicas>
+    </plato>
+    <plato tipo="Bebida">
+        <nombre>aguita del grifo</nombre>
+        <precio>1.50</precio>
+        <descripcion>agua pa bajar todo esto que hace falta la verdad</descripcion>
+        <calorias>0</calorias>
+        <caracteristicas>
+            <item>Vegano</item>
+            <item>Sin gluten</item>
+        </caracteristicas>
+    </plato>
+</menu>
